@@ -27,7 +27,7 @@ Create a Power BI Dashboard to monitor inventory levels of a bike manufacturer -
 - **Analysis:** Order Quantity, Manufactured Quantiy, Purchased Quantity over time + detailed information by Category (Inventory Qty/Revenue/Sales Qty/Profit Margin) <br>
 - **Lead Time:** Lead Time and Lead Time Delays over time and by Category  <br>
 - **Insights:** Inventory Control Strategies + Sales & Marketing Strategies
-## :five: Dashboard: [attached file]()
+## :five: Dashboard: [attached file](https://github.com/NguyenPhuongNghi/Inventory-Tracking/blob/main/AdventureWorks%20-%20Inventory%20Tracking.pbix)
 ### :one: Overview: <br>
 ![alt](https://github.com/NguyenPhuongNghi/Inventory-Tracking/blob/main/photos/Screenshot%202025-07-05%20165712.png?raw=true)
 - Total Inventory Value: ~$20M — a high-value stock, so optimization is crucial.
